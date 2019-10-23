@@ -1,0 +1,7772 @@
+[
+  {
+    "SEQUENCE": 30801000,
+    "CITYMUNI": "ABUCAY",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21501000,
+    "CITYMUNI": "ABULUG",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 142708000,
+    "CITYMUNI": "AGUINALDO",
+    "Province": "IFUGAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15504000,
+    "CITYMUNI": "ALCALA",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72202000,
+    "CITYMUNI": "ALCOY",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72203000,
+    "CITYMUNI": "ALEGRIA",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 142707000,
+    "CITYMUNI": "ALFONSO LISTA (POTIA)",
+    "Province": "IFUGAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23101000,
+    "CITYMUNI": "ALICIA",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12901000,
+    "CITYMUNI": "ALILEM",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63002000,
+    "CITYMUNI": "ALIMODIAN",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 41002000,
+    "CITYMUNI": "ALITAGTAG",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21503000,
+    "CITYMUNI": "ALLACAPAN",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72204000,
+    "CITYMUNI": "ALOGUINSAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 42102000,
+    "CITYMUNI": "AMADEO",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21504000,
+    "CITYMUNI": "AMULUNG",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15505000,
+    "CITYMUNI": "ANDA",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31401000,
+    "CITYMUNI": "ANGAT",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63003000,
+    "CITYMUNI": "ANILAO",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72205000,
+    "CITYMUNI": "ARGAO",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72206000,
+    "CITYMUNI": "ASTURIAS",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 141101000,
+    "CITYMUNI": "ATOK",
+    "Province": "BENGUET",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51701000,
+    "CITYMUNI": "BAAO",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12802000,
+    "CITYMUNI": "BACARRA",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63004000,
+    "CITYMUNI": "BADIANGAN",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 30802000,
+    "CITYMUNI": "BAGAC",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21506000,
+    "CITYMUNI": "BAGGAO",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 141102000,
+    "CITYMUNI": "BAGUIO CITY",
+    "Province": "BENGUET",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 141103000,
+    "CITYMUNI": "BAKUN",
+    "Province": "BENGUET",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31402000,
+    "CITYMUNI": "BALAGTAS (BIGAA)",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72208000,
+    "CITYMUNI": "BALAMBAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63005000,
+    "CITYMUNI": "BALASAN",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51702000,
+    "CITYMUNI": "BALATAN",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41003000,
+    "CITYMUNI": "BALAYAN",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41004000,
+    "CITYMUNI": "BALETE",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31403000,
+    "CITYMUNI": "BALIUAG",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21507000,
+    "CITYMUNI": "BALLESTEROS",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63006000,
+    "CITYMUNI": "BANATE",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 112502000,
+    "CITYMUNI": "BANAYBANAY",
+    "Province": "DAVAO ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12902000,
+    "CITYMUNI": "BANAYOYO",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60403000,
+    "CITYMUNI": "BANGA",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12804000,
+    "CITYMUNI": "BANGUI",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12811000,
+    "CITYMUNI": "BANNA (ESPIRITU)",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 112401000,
+    "CITYMUNI": "BANSALAN",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12903000,
+    "CITYMUNI": "BANTAY",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60602000,
+    "CITYMUNI": "BARBAZA",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72210000,
+    "CITYMUNI": "BARILI",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63007000,
+    "CITYMUNI": "BAROTAC NUEVO",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51601000,
+    "CITYMUNI": "BASUD",
+    "Province": "CAMARINES NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51703000,
+    "CITYMUNI": "BATO",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 54104000,
+    "CITYMUNI": "BATUAN",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41006000,
+    "CITYMUNI": "BAUAN",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 101301000,
+    "CITYMUNI": "BAUNGON",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160301000,
+    "CITYMUNI": "BAYUGAN",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 60603000,
+    "CITYMUNI": "BELISON",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71208000,
+    "CITYMUNI": "BILAR",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 87802000,
+    "CITYMUNI": "BILIRAN",
+    "Province": "BILIRAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31404000,
+    "CITYMUNI": "BOCAUE",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72211000,
+    "CITYMUNI": "BOGO",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 141104000,
+    "CITYMUNI": "BOKOD",
+    "Province": "BENGUET",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72212000,
+    "CITYMUNI": "BOLJOON",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51704000,
+    "CITYMUNI": "BOMBON",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72213000,
+    "CITYMUNI": "BORBON",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 112323000,
+    "CITYMUNI": "BRAULIO E. DUJALI",
+    "Province": "DAVAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140103000,
+    "CITYMUNI": "BUCAY",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45605000,
+    "CITYMUNI": "BUENAVISTA",
+    "Province": "AGUSAN DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21508000,
+    "CITYMUNI": "BUGUEY",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 141105000,
+    "CITYMUNI": "BUGUIAS",
+    "Province": "BENGUET",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51705000,
+    "CITYMUNI": "BUHI",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51706000,
+    "CITYMUNI": "BULA",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31405000,
+    "CITYMUNI": "BULACAN",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160302000,
+    "CITYMUNI": "BUNAWAN",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12806000,
+    "CITYMUNI": "BURGOS",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12806000,
+    "CITYMUNI": "BURGOS",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60405000,
+    "CITYMUNI": "BURUANGA",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31406000,
+    "CITYMUNI": "BUSTOS",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160203000,
+    "CITYMUNI": "CABADBARAN",
+    "Province": "AGUSAN DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 101322000,
+    "CITYMUNI": "CABANGLASAN",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51707000,
+    "CITYMUNI": "CABUSAO",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41007000,
+    "CITYMUNI": "CALACA",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 148101000,
+    "CITYMUNI": "CALANASAN (BAYAG)",
+    "Province": "APAYAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 41008000,
+    "CITYMUNI": "CALATAGAN",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31407000,
+    "CITYMUNI": "CALUMPIT",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21510000,
+    "CITYMUNI": "CAMALANIUGAN",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 50502000,
+    "CITYMUNI": "CAMALIG",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51709000,
+    "CITYMUNI": "CAMALIGAN",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 82605000,
+    "CITYMUNI": "CAN-AVID",
+    "Province": "EASTERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51710000,
+    "CITYMUNI": "CANAMAN",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12907000,
+    "CITYMUNI": "CAOAYAN",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51602000,
+    "CITYMUNI": "CAPALONGA",
+    "Province": "CAMARINES NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 52004000,
+    "CITYMUNI": "CARAMORAN",
+    "Province": "CATANDUANES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72214000,
+    "CITYMUNI": "CARCAR",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71212000,
+    "CITYMUNI": "CARMEN",
+    "Province": "AGUSAN DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71212000,
+    "CITYMUNI": "CARMEN",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71212000,
+    "CITYMUNI": "CARMEN",
+    "Province": "DAVAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 42104000,
+    "CITYMUNI": "CARMONA",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 112505000,
+    "CITYMUNI": "CATEEL",
+    "Province": "DAVAO ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71213000,
+    "CITYMUNI": "CATIGBIAN",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72216000,
+    "CITYMUNI": "CATMON",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12908000,
+    "CITYMUNI": "CERVANTES",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71214000,
+    "CITYMUNI": "CLARIN",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21511000,
+    "CITYMUNI": "CLAVERIA",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72218000,
+    "CITYMUNI": "COMPOSTELA",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72218000,
+    "CITYMUNI": "COMPOSTELA",
+    "Province": "COMPOSTELA VALLEY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 148102000,
+    "CITYMUNI": "CONNER",
+    "Province": "APAYAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72219000,
+    "CITYMUNI": "CONSOLACION",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61901000,
+    "CITYMUNI": "CUARTERO",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12808000,
+    "CITYMUNI": "CURRIMAO",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71217000,
+    "CITYMUNI": "DAGOHOY",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72222000,
+    "CITYMUNI": "DALAGUETE",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71218000,
+    "CITYMUNI": "DANAO",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 101303000,
+    "CITYMUNI": "DANGCAGAN",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140106000,
+    "CITYMUNI": "DANGLAS",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61902000,
+    "CITYMUNI": "DAO",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 50503000,
+    "CITYMUNI": "DARAGA (LOCSIN)",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 42106000,
+    "CITYMUNI": "DASMARIÑAS",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71219000,
+    "CITYMUNI": "DAUIS",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 112402000,
+    "CITYMUNI": "DAVAO CITY",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37703000,
+    "CITYMUNI": "DILASAG",
+    "Province": "AURORA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 112403000,
+    "CITYMUNI": "DIGOS CITY (Capital)",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71220000,
+    "CITYMUNI": "DIMIAO",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37704000,
+    "CITYMUNI": "DINALUNGAN",
+    "Province": "AURORA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 30804000,
+    "CITYMUNI": "DINALUPIHAN",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12809000,
+    "CITYMUNI": "DINGRAS",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37706000,
+    "CITYMUNI": "DIPACULAO",
+    "Province": "AURORA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140107000,
+    "CITYMUNI": "DOLORES",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 101304000,
+    "CITYMUNI": "DON CARLOS",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71221000,
+    "CITYMUNI": "DUERO",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61903000,
+    "CITYMUNI": "DUMALAG",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12810000,
+    "CITYMUNI": "DUMALNEG",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61904000,
+    "CITYMUNI": "DUMARAO",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21512000,
+    "CITYMUNI": "ENRILE",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 54109000,
+    "CITYMUNI": "ESPERANZA",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 148103000,
+    "CITYMUNI": "FLORA",
+    "Province": "APAYAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51713000,
+    "CITYMUNI": "GAINZA",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12909000,
+    "CITYMUNI": "GALIMUYOD",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71222000,
+    "CITYMUNI": "GARCIA HERNANDEZ",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21513000,
+    "CITYMUNI": "GATTARAN",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 42108000,
+    "CITYMUNI": "GENERAL TRIAS",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72225000,
+    "CITYMUNI": "GINATILAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51715000,
+    "CITYMUNI": "GOA",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21514000,
+    "CITYMUNI": "GONZAGA",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31408000,
+    "CITYMUNI": "GUIGUINTO",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71223000,
+    "CITYMUNI": "GUINDULMAN",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 50504000,
+    "CITYMUNI": "GUINOBATAN",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31409000,
+    "CITYMUNI": "HAGONOY",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31409000,
+    "CITYMUNI": "HAGONOY",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60608000,
+    "CITYMUNI": "HAMTIC",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 30805000,
+    "CITYMUNI": "HERMOSA",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 41010000,
+    "CITYMUNI": "IBAAN",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60406000,
+    "CITYMUNI": "IBAJAY",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21515000,
+    "CITYMUNI": "IGUIG",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 101305000,
+    "CITYMUNI": "IMPASUG-ONG",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 42109000,
+    "CITYMUNI": "IMUS",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 42110000,
+    "CITYMUNI": "INDANG",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51716000,
+    "CITYMUNI": "IRIGA CITY",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 141106000,
+    "CITYMUNI": "ITOGON",
+    "Province": "BENGUET",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160205000,
+    "CITYMUNI": "JABONGA",
+    "Province": "AGUSAN DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71225000,
+    "CITYMUNI": "JAGNA",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61906000,
+    "CITYMUNI": "JAMINDAN",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 118602000,
+    "CITYMUNI": "JOSE ABAD SANTOS (TRINIDAD)",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51605000,
+    "CITYMUNI": "JOSE PANGANIBAN",
+    "Province": "CAMARINES NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 148104000,
+    "CITYMUNI": "KABUGAO (Capital)",
+    "Province": "APAYAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 101306000,
+    "CITYMUNI": "KADINGILAN",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 101307000,
+    "CITYMUNI": "KALILANGAN",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 141108000,
+    "CITYMUNI": "KAPANGAN",
+    "Province": "BENGUET",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 42111000,
+    "CITYMUNI": "KAWIT",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 142703000,
+    "CITYMUNI": "KIANGAN",
+    "Province": "IFUGAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 112406000,
+    "CITYMUNI": "KIBLAWAN",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140108000,
+    "CITYMUNI": "LA PAZ",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140108000,
+    "CITYMUNI": "LA PAZ",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51606000,
+    "CITYMUNI": "LABO",
+    "Province": "CAMARINES NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140110000,
+    "CITYMUNI": "LAGANGILANG",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140111000,
+    "CITYMUNI": "LAGAYAN",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 142704000,
+    "CITYMUNI": "LAGAWE (Capital)",
+    "Province": "IFUGAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51717000,
+    "CITYMUNI": "LAGONOY",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 142705000,
+    "CITYMUNI": "LAMUT",
+    "Province": "IFUGAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140112000,
+    "CITYMUNI": "LANGIDEN",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 101310000,
+    "CITYMUNI": "LANTAPAN",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160207000,
+    "CITYMUNI": "LAS NIEVES",
+    "Province": "AGUSAN DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21517000,
+    "CITYMUNI": "LASAM",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 60609000,
+    "CITYMUNI": "LAUA-AN",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41011000,
+    "CITYMUNI": "LAUREL",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41012000,
+    "CITYMUNI": "LEMERY",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60408000,
+    "CITYMUNI": "LEZO",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 41013000,
+    "CITYMUNI": "LIAN",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60409000,
+    "CITYMUNI": "LIBACAO",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 60610000,
+    "CITYMUNI": "LIBERTAD",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 50507000,
+    "CITYMUNI": "LIBON",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 101311000,
+    "CITYMUNI": "LIBONA",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71227000,
+    "CITYMUNI": "LILA",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72227000,
+    "CITYMUNI": "LILOAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 30806000,
+    "CITYMUNI": "LIMAY",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 41014000,
+    "CITYMUNI": "LIPA CITY",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41015000,
+    "CITYMUNI": "LOBO",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160305000,
+    "CITYMUNI": "LORETO",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140114000,
+    "CITYMUNI": "LUBA",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 148105000,
+    "CITYMUNI": "LUNA",
+    "Province": "APAYAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51719000,
+    "CITYMUNI": "LUPI",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 112507000,
+    "CITYMUNI": "LUPON",
+    "Province": "DAVAO ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61907000,
+    "CITYMUNI": "MA-AYON",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15523000,
+    "CITYMUNI": "MABINI",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 118204000,
+    "CITYMUNI": "MACO",
+    "Province": "COMPOSTELA VALLEY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72228000,
+    "CITYMUNI": "MADRIDEJOS",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 42112000,
+    "CITYMUNI": "MAGALLANES",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51720000,
+    "CITYMUNI": "MAGARAO",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175105000,
+    "CITYMUNI": "MAGSAYSAY",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12912000,
+    "CITYMUNI": "MAGSINGAL",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60411000,
+    "CITYMUNI": "MAKATO",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72229000,
+    "CITYMUNI": "MALABUYOC",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140115000,
+    "CITYMUNI": "MALIBCONG",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 50510000,
+    "CITYMUNI": "MALINAO",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 50510000,
+    "CITYMUNI": "MALINAO",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 118603000,
+    "CITYMUNI": "MALITA",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86409000,
+    "CITYMUNI": "MALITBOG",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41017000,
+    "CITYMUNI": "MALVAR",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61908000,
+    "CITYMUNI": "MAMBUSAO",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140116000,
+    "CITYMUNI": "MANABO",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 141111000,
+    "CITYMUNI": "MANKAYAN",
+    "Province": "BENGUET",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 101314000,
+    "CITYMUNI": "MANOLO FORTICH",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 42113000,
+    "CITYMUNI": "MARAGONDON",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 118205000,
+    "CITYMUNI": "MARAGUSAN (SAN MARIANO)",
+    "Province": "COMPOSTELA VALLEY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 101315000,
+    "CITYMUNI": "MARAMAG",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12813000,
+    "CITYMUNI": "MARCOS",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37707000,
+    "CITYMUNI": "MARIA AURORA",
+    "Province": "AURORA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71232000,
+    "CITYMUNI": "MARIBOJOC",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31411000,
+    "CITYMUNI": "MARILAO",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 112410000,
+    "CITYMUNI": "MATANAO",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 118206000,
+    "CITYMUNI": "MAWAB",
+    "Province": "COMPOSTELA VALLEY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 142706000,
+    "CITYMUNI": "MAYOYAO",
+    "Province": "IFUGAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51721000,
+    "CITYMUNI": "MILAOR",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51722000,
+    "CITYMUNI": "MINALABAC",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72232000,
+    "CITYMUNI": "MINGLANILLA",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 118207000,
+    "CITYMUNI": "MONKAYO",
+    "Province": "COMPOSTELA VALLEY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 118208000,
+    "CITYMUNI": "MONTEVISTA",
+    "Province": "COMPOSTELA VALLEY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 60414000,
+    "CITYMUNI": "NABAS",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51723000,
+    "CITYMUNI": "NABUA",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 118209000,
+    "CITYMUNI": "NABUNTURAN",
+    "Province": "COMPOSTELA VALLEY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 98309000,
+    "CITYMUNI": "NAGA",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12913000,
+    "CITYMUNI": "NAGBUKEL",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 42115000,
+    "CITYMUNI": "NAIC",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12914000,
+    "CITYMUNI": "NARVACAN",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160209000,
+    "CITYMUNI": "NASIPIT",
+    "Province": "AGUSAN DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 118210000,
+    "CITYMUNI": "NEW BATAAN",
+    "Province": "COMPOSTELA VALLEY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 112314000,
+    "CITYMUNI": "NEW CORELLA",
+    "Province": "DAVAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31413000,
+    "CITYMUNI": "NORZAGARAY",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 42116000,
+    "CITYMUNI": "NOVELETA",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12814000,
+    "CITYMUNI": "NUEVA ERA",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60416000,
+    "CITYMUNI": "NUMANCIA",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 50512000,
+    "CITYMUNI": "OAS",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51725000,
+    "CITYMUNI": "OCAMPO",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 30810000,
+    "CITYMUNI": "ORION",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72235000,
+    "CITYMUNI": "OSLOB",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41020000,
+    "CITYMUNI": "PADRE GARCIA",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184616000,
+    "CITYMUNI": "PAMPLONA",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184616000,
+    "CITYMUNI": "PAMPLONA",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 112315000,
+    "CITYMUNI": "PANABO CITY",
+    "Province": "DAVAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 52006000,
+    "CITYMUNI": "PANDAN",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31415000,
+    "CITYMUNI": "PANDI",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 101316000,
+    "CITYMUNI": "PANGANTUCAN",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61910000,
+    "CITYMUNI": "PANITAN",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12816000,
+    "CITYMUNI": "PAOAY",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31416000,
+    "CITYMUNI": "PAOMBONG",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51727000,
+    "CITYMUNI": "PASACAO",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12817000,
+    "CITYMUNI": "PASUQUIN",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60612000,
+    "CITYMUNI": "PATNONGON",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21520000,
+    "CITYMUNI": "PIAT",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12818000,
+    "CITYMUNI": "PIDDIG",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140119000,
+    "CITYMUNI": "PILAR",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140119000,
+    "CITYMUNI": "PILAR",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140119000,
+    "CITYMUNI": "PILAR",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140119000,
+    "CITYMUNI": "PILAR",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72237000,
+    "CITYMUNI": "PINAMUNGAHAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12819000,
+    "CITYMUNI": "PINILI",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 50513000,
+    "CITYMUNI": "PIO DURAN",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31417000,
+    "CITYMUNI": "PLARIDEL",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 50514000,
+    "CITYMUNI": "POLANGUI",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72238000,
+    "CITYMUNI": "PORO",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 148106000,
+    "CITYMUNI": "PUDTOL",
+    "Province": "APAYAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31418000,
+    "CITYMUNI": "PULILAN",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23122000,
+    "CITYMUNI": "QUEZON",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12915000,
+    "CITYMUNI": "QUIRINO (ANGKAKI)",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160212000,
+    "CITYMUNI": "REMEDIOS T. ROMUALDEZ",
+    "Province": "AGUSAN DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21521000,
+    "CITYMUNI": "RIZAL",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72239000,
+    "CITYMUNI": "RONDA",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13313000,
+    "CITYMUNI": "ROSARIO",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13313000,
+    "CITYMUNI": "ROSARIO",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13313000,
+    "CITYMUNI": "ROSARIO",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71236000,
+    "CITYMUNI": "SAGBAYAN (BORJA)",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12916000,
+    "CITYMUNI": "SALCEDO (BAUGEN)",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 30812000,
+    "CITYMUNI": "SAMAL",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72240000,
+    "CITYMUNI": "SAMBOAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 52008000,
+    "CITYMUNI": "SAN ANDRES (CALOLBON)",
+    "Province": "CATANDUANES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12917000,
+    "CITYMUNI": "SAN EMILIO",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12918000,
+    "CITYMUNI": "SAN ESTEBAN",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175913000,
+    "CITYMUNI": "SAN FERNANDO",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175913000,
+    "CITYMUNI": "SAN FERNANDO",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175913000,
+    "CITYMUNI": "SAN FERNANDO",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72242000,
+    "CITYMUNI": "SAN FRANCISCO",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12919000,
+    "CITYMUNI": "SAN ILDEFONSO",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12919000,
+    "CITYMUNI": "SAN ILDEFONSO",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140121000,
+    "CITYMUNI": "SAN ISIDRO",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140121000,
+    "CITYMUNI": "SAN ISIDRO",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140121000,
+    "CITYMUNI": "SAN ISIDRO",
+    "Province": "DAVAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140121000,
+    "CITYMUNI": "SAN ISIDRO",
+    "Province": "DAVAO ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184617000,
+    "CITYMUNI": "SAN JOSE",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184617000,
+    "CITYMUNI": "SAN JOSE",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140122000,
+    "CITYMUNI": "SAN JUAN",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31420000,
+    "CITYMUNI": "SAN JOSE DEL MONTE CITY",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140122000,
+    "CITYMUNI": "SAN JUAN",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12920000,
+    "CITYMUNI": "SAN JUAN (LAPOG)",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 67904000,
+    "CITYMUNI": "SAN LORENZO",
+    "Province": "GUIMARAS",
+    "W": 0.92
+  },
+  {
+    "SEQUENCE": 35417000,
+    "CITYMUNI": "SAN LUIS",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35417000,
+    "CITYMUNI": "SAN LUIS",
+    "Province": "AURORA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35417000,
+    "CITYMUNI": "SAN LUIS",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31421000,
+    "CITYMUNI": "SAN MIGUEL",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31421000,
+    "CITYMUNI": "SAN MIGUEL",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31421000,
+    "CITYMUNI": "SAN MIGUEL",
+    "Province": "CATANDUANES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12820000,
+    "CITYMUNI": "SAN NICOLAS",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41026000,
+    "CITYMUNI": "SAN PASCUAL",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140123000,
+    "CITYMUNI": "SAN QUINTIN",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31422000,
+    "CITYMUNI": "SAN RAFAEL",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60614000,
+    "CITYMUNI": "SAN REMIGIO",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60614000,
+    "CITYMUNI": "SAN REMIGIO",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12921000,
+    "CITYMUNI": "SAN VICENTE",
+    "Province": "CAMARINES NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12921000,
+    "CITYMUNI": "SAN VICENTE",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21522000,
+    "CITYMUNI": "SANCHEZ-MIRA",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12922000,
+    "CITYMUNI": "SANTA",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184618000,
+    "CITYMUNI": "SANTA CATALINA",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12924000,
+    "CITYMUNI": "SANTA CRUZ",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12924000,
+    "CITYMUNI": "SANTA CRUZ",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51610000,
+    "CITYMUNI": "SANTA ELENA",
+    "Province": "CAMARINES NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 160310000,
+    "CITYMUNI": "SANTA JOSEFA",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12925000,
+    "CITYMUNI": "SANTA LUCIA",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 148107000,
+    "CITYMUNI": "SANTA MARCELA",
+    "Province": "APAYAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12926000,
+    "CITYMUNI": "SANTA MARIA",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12926000,
+    "CITYMUNI": "SANTA MARIA",
+    "Province": "DAVAO DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12926000,
+    "CITYMUNI": "SANTA MARIA",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21525000,
+    "CITYMUNI": "SANTA TERESITA",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12927000,
+    "CITYMUNI": "SANTIAGO",
+    "Province": "AGUSAN DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12927000,
+    "CITYMUNI": "SANTIAGO",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12928000,
+    "CITYMUNI": "SANTO DOMINGO",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 50516000,
+    "CITYMUNI": "SANTO DOMINGO (LIBOG)",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21526000,
+    "CITYMUNI": "SANTO NIÑO (FAIRE)",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13317000,
+    "CITYMUNI": "SANTO TOMAS",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13317000,
+    "CITYMUNI": "SANTO TOMAS",
+    "Province": "DAVAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 61915000,
+    "CITYMUNI": "SAPI-AN",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12821000,
+    "CITYMUNI": "SARRAT",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60615000,
+    "CITYMUNI": "SEBASTE",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60616000,
+    "CITYMUNI": "SIBALOM",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72246000,
+    "CITYMUNI": "SIBONGA",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61916000,
+    "CITYMUNI": "SIGMA",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 42118000,
+    "CITYMUNI": "SILANG",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12930000,
+    "CITYMUNI": "SINAIT",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51734000,
+    "CITYMUNI": "SIPOCOT",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21527000,
+    "CITYMUNI": "SOLANA",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12822000,
+    "CITYMUNI": "SOLSONA",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12931000,
+    "CITYMUNI": "SUGPON",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12932000,
+    "CITYMUNI": "SUYO",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72248000,
+    "CITYMUNI": "TABOGON",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72249000,
+    "CITYMUNI": "TABUELAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12933000,
+    "CITYMUNI": "TAGUDIN",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160311000,
+    "CITYMUNI": "TALACOGON",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 101320000,
+    "CITYMUNI": "TALAKAG",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41030000,
+    "CITYMUNI": "TALISAY",
+    "Province": "CAMARINES NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184528000,
+    "CITYMUNI": "TALISAY CITY",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61917000,
+    "CITYMUNI": "TAPAZ",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140124000,
+    "CITYMUNI": "TAYUM",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60617000,
+    "CITYMUNI": "TIBIAO",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51736000,
+    "CITYMUNI": "TIGAON",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51737000,
+    "CITYMUNI": "TINAMBAC",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 50518000,
+    "CITYMUNI": "TIWI",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 60607000,
+    "CITYMUNI": "TOBIAS FORNIER (DAO)",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72251000,
+    "CITYMUNI": "TOLEDO CITY",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160312000,
+    "CITYMUNI": "TRENTO",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71244000,
+    "CITYMUNI": "TRINIDAD",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 42122000,
+    "CITYMUNI": "TRECE MARTIRES CITY (Capital)",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21528000,
+    "CITYMUNI": "TUAO",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 141113000,
+    "CITYMUNI": "TUBA",
+    "Province": "BENGUET",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 168507000,
+    "CITYMUNI": "TUBAJON",
+    "Province": "DINAGAT ISLAND",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 150707000,
+    "CITYMUNI": "TUBURAN",
+    "Province": "BASILAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21529000,
+    "CITYMUNI": "TUGUEGARAO CITY (Capital)",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 41034000,
+    "CITYMUNI": "TUY",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60618000,
+    "CITYMUNI": "VALDERRAMA",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71247000,
+    "CITYMUNI": "VALENCIA",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160313000,
+    "CITYMUNI": "VERUELA",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12823000,
+    "CITYMUNI": "VINTAR",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160306000,
+    "CITYMUNI": "PROSPERIDAD (Capital)",
+    "Province": "AGUSAN DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12805000,
+    "CITYMUNI": "BATAC CITY",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12906000,
+    "CITYMUNI": "CANDON CITY",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41031000,
+    "CITYMUNI": "TANAUAN CITY",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 50508000,
+    "CITYMUNI": "LIGAO CITY",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 150702000,
+    "CITYMUNI": "LAMITAN CITY",
+    "Province": "BASILAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184617000,
+    "CITYMUNI": "SAN JOSE",
+    "Province": "DINAGAT ISLAND",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 101321000,
+    "CITYMUNI": "VALENCIA CITY",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140101000,
+    "CITYMUNI": "BANGUED (Capital)",
+    "Province": "ABRA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160202000,
+    "CITYMUNI": "BUTUAN CITY (Capital)",
+    "Province": "AGUSAN DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72217000,
+    "CITYMUNI": "CEBU CITY (Capital)",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51603000,
+    "CITYMUNI": "DAET (Capital)",
+    "Province": "CAMARINES NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 60407000,
+    "CITYMUNI": "KALIBO (Capital)",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12812000,
+    "CITYMUNI": "LAOAG CITY (Capital)",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 50506000,
+    "CITYMUNI": "LEGAZPI CITY (Capital)",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 101312000,
+    "CITYMUNI": "MALAYBALAY CITY (Capital)",
+    "Province": "BUKIDNON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51728000,
+    "CITYMUNI": "PILI (Capital)",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60613000,
+    "CITYMUNI": "SAN JOSE (Capital)",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 52011000,
+    "CITYMUNI": "VIRAC (Capital)",
+    "Province": "CATANDUANES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 112319000,
+    "CITYMUNI": "TAGUM CITY (Capital)",
+    "Province": "DAVAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 30803000,
+    "CITYMUNI": "BALANGA CITY(Capital)",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31410000,
+    "CITYMUNI": "MALOLOS (Capital)",
+    "Province": "BULACAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175101000,
+    "CITYMUNI": "ABRA DE ILOG",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83701000,
+    "CITYMUNI": "ABUYOG",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15501000,
+    "CITYMUNI": "AGNO",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13301000,
+    "CITYMUNI": "AGOO",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15502000,
+    "CITYMUNI": "AGUILAR",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 124701000,
+    "CITYMUNI": "ALAMADA",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83702000,
+    "CITYMUNI": "ALANGALANG",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83703000,
+    "CITYMUNI": "ALBUERA",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15504000,
+    "CITYMUNI": "ALCALA",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 124717000,
+    "CITYMUNI": "ALEOSAN",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25015000,
+    "CITYMUNI": "ALFONSO CASTANEDA",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34901000,
+    "CITYMUNI": "ALIAGA",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23101000,
+    "CITYMUNI": "ALICIA",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104201000,
+    "CITYMUNI": "ALORAN",
+    "Province": "MISAMIS OCCIDENTAL",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104301000,
+    "CITYMUNI": "ALUBIJID",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184601000,
+    "CITYMUNI": "AMLAN (AYUQUITAN)",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 153801000,
+    "CITYMUNI": "AMPATUAN",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23102000,
+    "CITYMUNI": "ANGADANAN",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35401000,
+    "CITYMUNI": "ANGELES CITY",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 35416000,
+    "CITYMUNI": "SAN FERNANDO CITY",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 124715000,
+    "CITYMUNI": "ANTIPAS",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 35402000,
+    "CITYMUNI": "APALIT",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 124718000,
+    "CITYMUNI": "ARAKAN",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 35403000,
+    "CITYMUNI": "ARAYAT",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13302000,
+    "CITYMUNI": "ARINGAY",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25002000,
+    "CITYMUNI": "ARITAO",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15506000,
+    "CITYMUNI": "ASINGAN",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23103000,
+    "CITYMUNI": "AURORA",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184602000,
+    "CITYMUNI": "AYUNGON",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 13303000,
+    "CITYMUNI": "BACNOTAN",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175201000,
+    "CITYMUNI": "BACO",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184501000,
+    "CITYMUNI": "BACOLOD CITY (Capital)",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 35404000,
+    "CITYMUNI": "BACOLOR",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25003000,
+    "CITYMUNI": "BAGABAG",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184502000,
+    "CITYMUNI": "BAGO CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13305000,
+    "CITYMUNI": "BALAOAN",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 104302000,
+    "CITYMUNI": "BALINGASAG",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 103502000,
+    "CITYMUNI": "BALOI",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15507000,
+    "CITYMUNI": "BALUNGAO",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25004000,
+    "CITYMUNI": "BAMBANG",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13306000,
+    "CITYMUNI": "BANGAR",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15508000,
+    "CITYMUNI": "BANI",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 124716000,
+    "CITYMUNI": "BANISILAN",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175202000,
+    "CITYMUNI": "BANSUD",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153818000,
+    "CITYMUNI": "BARIRA",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63008000,
+    "CITYMUNI": "BAROTAC VIEJO",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 103503000,
+    "CITYMUNI": "BAROY",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83706000,
+    "CITYMUNI": "BARUGO",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184605000,
+    "CITYMUNI": "BASAY",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 15509000,
+    "CITYMUNI": "BASISTA",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13307000,
+    "CITYMUNI": "BAUANG",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 144402000,
+    "CITYMUNI": "BAUKO",
+    "Province": "MOUNTAIN PROVINCE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15510000,
+    "CITYMUNI": "BAUTISTA",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43402000,
+    "CITYMUNI": "BAY",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15511000,
+    "CITYMUNI": "BAYAMBANG",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184606000,
+    "CITYMUNI": "BAYAWAN CITY (TULONG)",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 83708000,
+    "CITYMUNI": "BAYBAY",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 25005000,
+    "CITYMUNI": "BAYOMBONG (Capital)",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23104000,
+    "CITYMUNI": "BENITO SOLIVEN",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 144403000,
+    "CITYMUNI": "BESAO",
+    "Province": "MOUNTAIN PROVINCE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184503000,
+    "CITYMUNI": "BINALBAGAN",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15512000,
+    "CITYMUNI": "BINALONAN",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43403000,
+    "CITYMUNI": "BIÑAN",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184607000,
+    "CITYMUNI": "BINDOY (PAYABON)",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 63010000,
+    "CITYMUNI": "BINGAWAN",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15513000,
+    "CITYMUNI": "BINMALEY",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 104304000,
+    "CITYMUNI": "BINUANGAN",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34902000,
+    "CITYMUNI": "BONGABON",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175203000,
+    "CITYMUNI": "BONGABONG",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104203000,
+    "CITYMUNI": "BONIFACIO",
+    "Province": "MISAMIS OCCIDENTAL",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 144404000,
+    "CITYMUNI": "BONTOC (Capital)",
+    "Province": "MOUNTAIN PROVINCE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175306000,
+    "CITYMUNI": "BROOKE'S POINT",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153633000,
+    "CITYMUNI": "BUADIPOSO-BUNTONG",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15515000,
+    "CITYMUNI": "BUGALLON",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153802000,
+    "CITYMUNI": "BULDON",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153803000,
+    "CITYMUNI": "BULUAN",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153637000,
+    "CITYMUNI": "BUMBARAN",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83710000,
+    "CITYMUNI": "BURAUEN",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12806000,
+    "CITYMUNI": "BURGOS",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12806000,
+    "CITYMUNI": "BURGOS",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12806000,
+    "CITYMUNI": "BURGOS",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153607000,
+    "CITYMUNI": "BUTIG",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13309000,
+    "CITYMUNI": "CABA",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23106000,
+    "CITYMUNI": "CABAGAN",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34903000,
+    "CITYMUNI": "CABANATUAN CITY",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23107000,
+    "CITYMUNI": "CABATUAN",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23107000,
+    "CITYMUNI": "CABATUAN",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34904000,
+    "CITYMUNI": "CABIAO",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184504000,
+    "CITYMUNI": "CADIZ CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 104305000,
+    "CITYMUNI": "CAGAYAN DE ORO CITY (Capital)",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15517000,
+    "CITYMUNI": "CALASIAO",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184505000,
+    "CITYMUNI": "CALATRAVA",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43406000,
+    "CITYMUNI": "CALAUAN",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63013000,
+    "CITYMUNI": "CALINOG",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175102000,
+    "CITYMUNI": "CALINTAAN",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83713000,
+    "CITYMUNI": "CALUBIAN",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35405000,
+    "CITYMUNI": "CANDABA",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184506000,
+    "CITYMUNI": "CANDONI",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184608000,
+    "CITYMUNI": "CANLAON CITY",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 83714000,
+    "CITYMUNI": "CAPOOCAN",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83715000,
+    "CITYMUNI": "CARIGARA",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71212000,
+    "CITYMUNI": "CARMEN",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34905000,
+    "CITYMUNI": "CARRANGLAN",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 54105000,
+    "CITYMUNI": "CATAINGAN",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71214000,
+    "CITYMUNI": "CLARIN",
+    "Province": "MISAMIS OCCIDENTAL",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21511000,
+    "CITYMUNI": "CLAVERIA",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21511000,
+    "CITYMUNI": "CLAVERIA",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36905000,
+    "CITYMUNI": "CONCEPCION",
+    "Province": "MISAMIS OCCIDENTAL",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23109000,
+    "CITYMUNI": "CORDON",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34906000,
+    "CITYMUNI": "CUYAPO",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83717000,
+    "CITYMUNI": "DAGAMI",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15518000,
+    "CITYMUNI": "DAGUPAN CITY",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153828000,
+    "CITYMUNI": "DATU ABDULLAH SANGKI",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153830000,
+    "CITYMUNI": "DATU BLAH T. SINSUAT",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153835000,
+    "CITYMUNI": "DATU HOFFER AMPATUAN",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153807000,
+    "CITYMUNI": "DATU ODIN SINSUAT (DINAIG)",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153805000,
+    "CITYMUNI": "DATU PAGLAS",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153806000,
+    "CITYMUNI": "DATU PIANG",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153826000,
+    "CITYMUNI": "DATU SAUDI-AMPATUAN",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23118000,
+    "CITYMUNI": "DELFIN ALBANO (MAGSAYSAY)",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23110000,
+    "CITYMUNI": "DINAPIGUE",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63016000,
+    "CITYMUNI": "DINGLE",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23111000,
+    "CITYMUNI": "DIVILACAN",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63017000,
+    "CITYMUNI": "DUEÑAS",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83718000,
+    "CITYMUNI": "DULAG",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63018000,
+    "CITYMUNI": "DUMANGAS",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 25007000,
+    "CITYMUNI": "DUPAX DEL NORTE",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23112000,
+    "CITYMUNI": "ECHAGUE",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104307000,
+    "CITYMUNI": "EL SALVADOR",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 54109000,
+    "CITYMUNI": "ESPERANZA",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43408000,
+    "CITYMUNI": "FAMY",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35406000,
+    "CITYMUNI": "FLORIDABLANCA",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34907000,
+    "CITYMUNI": "GABALDON (BITULOK & SABANI)",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23113000,
+    "CITYMUNI": "GAMU",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153609000,
+    "CITYMUNI": "GANASSI",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153819000,
+    "CITYMUNI": "GEN. S. K. PENDATUN",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34909000,
+    "CITYMUNI": "GENERAL MAMERTO NATIVIDAD",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104309000,
+    "CITYMUNI": "GITAGUM",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175206000,
+    "CITYMUNI": "GLORIA",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35407000,
+    "CITYMUNI": "GUAGUA",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184611000,
+    "CITYMUNI": "GUIHULNGAN",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 34911000,
+    "CITYMUNI": "GUIMBA",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63020000,
+    "CITYMUNI": "GUIMBAL",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83719000,
+    "CITYMUNI": "HILONGOS",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184511000,
+    "CITYMUNI": "HINIGARAN",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63021000,
+    "CITYMUNI": "IGBARAS",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15520000,
+    "CITYMUNI": "INFANTA",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 104310000,
+    "CITYMUNI": "INITAO",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83722000,
+    "CITYMUNI": "ISABEL",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184514000,
+    "CITYMUNI": "ISABELA",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34912000,
+    "CITYMUNI": "JAEN",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63023000,
+    "CITYMUNI": "JANIUAY",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83724000,
+    "CITYMUNI": "JAVIER (BUGHO)",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184612000,
+    "CITYMUNI": "JIMALALUD",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 104207000,
+    "CITYMUNI": "JIMENEZ",
+    "Province": "MISAMIS OCCIDENTAL",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23115000,
+    "CITYMUNI": "JONES",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83725000,
+    "CITYMUNI": "JULITA",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 124703000,
+    "CITYMUNI": "KABACAN",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153814000,
+    "CITYMUNI": "KABUNTALAN (TUMBAO)",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 43409000,
+    "CITYMUNI": "KALAYAAN",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83726000,
+    "CITYMUNI": "KANANGA",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153610000,
+    "CITYMUNI": "KAPAI",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153639000,
+    "CITYMUNI": "KAPATAGAN",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153639000,
+    "CITYMUNI": "KAPATAGAN",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 25009000,
+    "CITYMUNI": "KASIBU",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 25010000,
+    "CITYMUNI": "KAYAPA",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 124704000,
+    "CITYMUNI": "KIDAPAWAN CITY (Capital)",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184516000,
+    "CITYMUNI": "LA CARLOTA CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184517000,
+    "CITYMUNI": "LA CASTELLANA",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184613000,
+    "CITYMUNI": "LA LIBERTAD",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 140108000,
+    "CITYMUNI": "LA PAZ",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15521000,
+    "CITYMUNI": "LABRADOR",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 104314000,
+    "CITYMUNI": "LAGUINDINGAN",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 103509000,
+    "CITYMUNI": "LALA",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63025000,
+    "CITYMUNI": "LAMBUNAO",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15548000,
+    "CITYMUNI": "LAOAC",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34913000,
+    "CITYMUNI": "LAUR",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63026000,
+    "CITYMUNI": "LEGANES",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 41012000,
+    "CITYMUNI": "LEMERY",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63028000,
+    "CITYMUNI": "LEON",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 60610000,
+    "CITYMUNI": "LIBERTAD",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 124705000,
+    "CITYMUNI": "LIBUNGAN",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34914000,
+    "CITYMUNI": "LICAB",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 43410000,
+    "CITYMUNI": "LILIW",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34915000,
+    "CITYMUNI": "LLANERA",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 43411000,
+    "CITYMUNI": "LOS BAÑOS",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35408000,
+    "CITYMUNI": "LUBAO",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 143206000,
+    "CITYMUNI": "LUBUAGAN",
+    "Province": "KALINGA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104316000,
+    "CITYMUNI": "LUGAIT",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153611000,
+    "CITYMUNI": "LUMBA-BAYABAO (MAGUING)",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153641000,
+    "CITYMUNI": "LUMBACA-UNAYAN",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 43413000,
+    "CITYMUNI": "LUMBAN",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153612000,
+    "CITYMUNI": "LUMBATAN",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153636000,
+    "CITYMUNI": "LUMBAYANAGUE",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 148105000,
+    "CITYMUNI": "LUNA",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 148105000,
+    "CITYMUNI": "LUNA",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34916000,
+    "CITYMUNI": "LUPAO",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 124710000,
+    "CITYMUNI": "M'LANG",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 35409000,
+    "CITYMUNI": "MABALACAT",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184614000,
+    "CITYMUNI": "MABINAY",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 15523000,
+    "CITYMUNI": "MABINI",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43414000,
+    "CITYMUNI": "MABITAC",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35410000,
+    "CITYMUNI": "MACABEBE",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83730000,
+    "CITYMUNI": "MACARTHUR",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153613000,
+    "CITYMUNI": "MADALUM",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153614000,
+    "CITYMUNI": "MADAMBA",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35411000,
+    "CITYMUNI": "MAGALANG",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 124706000,
+    "CITYMUNI": "MAGPET",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175105000,
+    "CITYMUNI": "MAGSAYSAY",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43416000,
+    "CITYMUNI": "MAJAYJAY",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 124707000,
+    "CITYMUNI": "MAKILALA",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15524000,
+    "CITYMUNI": "MALASIQUI",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23119000,
+    "CITYMUNI": "MALLIG",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153820000,
+    "CITYMUNI": "MAMASAPANO",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15525000,
+    "CITYMUNI": "MANAOAG",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184518000,
+    "CITYMUNI": "MANAPLA",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15526000,
+    "CITYMUNI": "MANGALDAN",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15527000,
+    "CITYMUNI": "MANGATAREM",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175207000,
+    "CITYMUNI": "MANSALAY",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15528000,
+    "CITYMUNI": "MAPANDAN",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153616000,
+    "CITYMUNI": "MARANTAO",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 54111000,
+    "CITYMUNI": "MASBATE CITY (Capital)",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153618000,
+    "CITYMUNI": "MASIU",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83733000,
+    "CITYMUNI": "MATAG-OB",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 124708000,
+    "CITYMUNI": "MATALAM",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 103513000,
+    "CITYMUNI": "MATUNGAO",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83736000,
+    "CITYMUNI": "MERIDA",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35413000,
+    "CITYMUNI": "MEXICO",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63030000,
+    "CITYMUNI": "MIAGAO",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 124709000,
+    "CITYMUNI": "MIDSAYAP",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63031000,
+    "CITYMUNI": "MINA",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35414000,
+    "CITYMUNI": "MINALIN",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 54113000,
+    "CITYMUNI": "MOBO",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184519000,
+    "CITYMUNI": "MOISES PADILLA (MAGALLON)",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153619000,
+    "CITYMUNI": "MULONDO",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 103514000,
+    "CITYMUNI": "MUNAI",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184520000,
+    "CITYMUNI": "MURCIA",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 137603000,
+    "CITYMUNI": "MUNTINLUPA CITY",
+    "Province": "METRO MANILA",
+    "W": 0
+  },
+  {
+    "SEQUENCE": 43417000,
+    "CITYMUNI": "NAGCARLAN",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13311000,
+    "CITYMUNI": "NAGUILIAN",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13311000,
+    "CITYMUNI": "NAGUILIAN",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34918000,
+    "CITYMUNI": "NAMPICUAN",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15529000,
+    "CITYMUNI": "NATIVIDAD",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63032000,
+    "CITYMUNI": "NEW LUCENA",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153834000,
+    "CITYMUNI": "NORTHERN KABUNTALAN",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 103515000,
+    "CITYMUNI": "NUNUNGAN",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 104321000,
+    "CITYMUNI": "OPOL",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83738000,
+    "CITYMUNI": "ORMOC CITY",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104209000,
+    "CITYMUNI": "OROQUIETA CITY (Capital)",
+    "Province": "MISAMIS OCCIDENTAL",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63034000,
+    "CITYMUNI": "OTON",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104210000,
+    "CITYMUNI": "OZAMIS CITY",
+    "Province": "MISAMIS OCCIDENTAL",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 43418000,
+    "CITYMUNI": "PAETE",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153822000,
+    "CITYMUNI": "PAGAGAWAN",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153810000,
+    "CITYMUNI": "PAGALUNGAN",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153823000,
+    "CITYMUNI": "PAGLAT",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 43419000,
+    "CITYMUNI": "PAGSANJAN",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 54115000,
+    "CITYMUNI": "PALANAS",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83739000,
+    "CITYMUNI": "PALO",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175107000,
+    "CITYMUNI": "PALUAN",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184616000,
+    "CITYMUNI": "PAMPLONA",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 153833000,
+    "CITYMUNI": "PANDAG",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34920000,
+    "CITYMUNI": "PANTABANGAN",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 103516000,
+    "CITYMUNI": "PANTAO RAGAT",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 103523000,
+    "CITYMUNI": "PANTAR",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 144406000,
+    "CITYMUNI": "PARACELIS",
+    "Province": "MOUNTAIN PROVINCE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 137606000,
+    "CITYMUNI": "PATEROS",
+    "Province": "METRO MANILA",
+    "W": 0
+  },
+  {
+    "SEQUENCE": 63036000,
+    "CITYMUNI": "PAVIA",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34921000,
+    "CITYMUNI": "PEÑARANDA",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 124711000,
+    "CITYMUNI": "PIGKAWAYAN",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 124712000,
+    "CITYMUNI": "PIKIT",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43422000,
+    "CITYMUNI": "PILA",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175209000,
+    "CITYMUNI": "PINAMALAYAN",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 143209000,
+    "CITYMUNI": "PINUKPUK",
+    "Province": "KALINGA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31417000,
+    "CITYMUNI": "PLARIDEL",
+    "Province": "MISAMIS OCCIDENTAL",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175210000,
+    "CITYMUNI": "POLA",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184521000,
+    "CITYMUNI": "PONTEVEDRA",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153622000,
+    "CITYMUNI": "POONA BAYABAO (GATA)",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35415000,
+    "CITYMUNI": "PORAC",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63037000,
+    "CITYMUNI": "POTOTAN",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15530000,
+    "CITYMUNI": "POZZORUBIO",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153623000,
+    "CITYMUNI": "PUALAS",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13312000,
+    "CITYMUNI": "PUGO",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23122000,
+    "CITYMUNI": "QUEZON",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23122000,
+    "CITYMUNI": "QUEZON",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23122000,
+    "CITYMUNI": "QUEZON",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 137404000,
+    "CITYMUNI": "QUEZON CITY",
+    "Province": "METRO MANILA",
+    "W": 0
+  },
+  {
+    "SEQUENCE": 23123000,
+    "CITYMUNI": "QUIRINO",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23124000,
+    "CITYMUNI": "RAMON",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23125000,
+    "CITYMUNI": "REINA MERCEDES",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21521000,
+    "CITYMUNI": "RIZAL",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21521000,
+    "CITYMUNI": "RIZAL",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21521000,
+    "CITYMUNI": "RIZAL",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 143211000,
+    "CITYMUNI": "RIZAL (LIWAN)",
+    "Province": "KALINGA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13313000,
+    "CITYMUNI": "ROSARIO",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23126000,
+    "CITYMUNI": "ROXAS",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23126000,
+    "CITYMUNI": "ROXAS",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 144409000,
+    "CITYMUNI": "SAGADA",
+    "Province": "MOUNTAIN PROVINCE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153625000,
+    "CITYMUNI": "SAGUIARAN",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104322000,
+    "CITYMUNI": "SALAY",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 103518000,
+    "CITYMUNI": "SALVADOR",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184532000,
+    "CITYMUNI": "SALVADOR BENEDICTO",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23127000,
+    "CITYMUNI": "SAN AGUSTIN",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34924000,
+    "CITYMUNI": "SAN ANTONIO",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34924000,
+    "CITYMUNI": "SAN ANTONIO",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184525000,
+    "CITYMUNI": "SAN ENRIQUE",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184525000,
+    "CITYMUNI": "SAN ENRIQUE",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175913000,
+    "CITYMUNI": "SAN FERNANDO",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13315000,
+    "CITYMUNI": "SAN GABRIEL",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23128000,
+    "CITYMUNI": "SAN GUILLERMO",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140121000,
+    "CITYMUNI": "SAN ISIDRO",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140121000,
+    "CITYMUNI": "SAN ISIDRO",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140121000,
+    "CITYMUNI": "SAN ISIDRO",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15534000,
+    "CITYMUNI": "SAN JACINTO",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63040000,
+    "CITYMUNI": "SAN JOAQUIN",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184617000,
+    "CITYMUNI": "SAN JOSE",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 34926000,
+    "CITYMUNI": "SAN JOSE CITY",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140122000,
+    "CITYMUNI": "SAN JUAN",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34927000,
+    "CITYMUNI": "SAN LEONARDO",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35417000,
+    "CITYMUNI": "SAN LUIS",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15535000,
+    "CITYMUNI": "SAN MANUEL",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23131000,
+    "CITYMUNI": "SAN MARIANO",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23132000,
+    "CITYMUNI": "SAN MATEO",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31421000,
+    "CITYMUNI": "SAN MIGUEL",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31421000,
+    "CITYMUNI": "SAN MIGUEL",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23133000,
+    "CITYMUNI": "SAN PABLO",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 43424000,
+    "CITYMUNI": "SAN PABLO CITY",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31422000,
+    "CITYMUNI": "SAN RAFAEL",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 84820000,
+    "CITYMUNI": "SAN ROQUE",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35418000,
+    "CITYMUNI": "SAN SIMON",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21523000,
+    "CITYMUNI": "SANTA ANA",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15538000,
+    "CITYMUNI": "SANTA BARBARA",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184618000,
+    "CITYMUNI": "SANTA CATALINA",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 12924000,
+    "CITYMUNI": "SANTA CRUZ",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43426000,
+    "CITYMUNI": "SANTA CRUZ (Capital)",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 25012000,
+    "CITYMUNI": "SANTA FE",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 25012000,
+    "CITYMUNI": "SANTA FE",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12926000,
+    "CITYMUNI": "SANTA MARIA",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12926000,
+    "CITYMUNI": "SANTA MARIA",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 35420000,
+    "CITYMUNI": "SANTA RITA",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34928000,
+    "CITYMUNI": "SANTA ROSA",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34928000,
+    "CITYMUNI": "SANTA ROSA",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12928000,
+    "CITYMUNI": "SANTO DOMINGO",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13317000,
+    "CITYMUNI": "SANTO TOMAS",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13317000,
+    "CITYMUNI": "SANTO TOMAS",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 103519000,
+    "CITYMUNI": "SAPAD",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63044000,
+    "CITYMUNI": "SARA",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184619000,
+    "CITYMUNI": "SIATON",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 184526000,
+    "CITYMUNI": "SILAY CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175214000,
+    "CITYMUNI": "SOCORRO",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 25013000,
+    "CITYMUNI": "SOLANO",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153817000,
+    "CITYMUNI": "SOUTH UPI",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153812000,
+    "CITYMUNI": "SULTAN KUDARAT (NULING)",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153813000,
+    "CITYMUNI": "SULTAN SA BARONGIS (LAMBAYONG)",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83746000,
+    "CITYMUNI": "TABONTABON",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 144410000,
+    "CITYMUNI": "TADIAN",
+    "Province": "MOUNTAIN PROVINCE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 103520000,
+    "CITYMUNI": "TAGOLOAN",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 103520000,
+    "CITYMUNI": "TAGOLOAN",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 137607000,
+    "CITYMUNI": "TAGUIG CITY",
+    "Province": "METRO MANILA",
+    "W": 0
+  },
+  {
+    "SEQUENCE": 34930000,
+    "CITYMUNI": "TALAVERA",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104325000,
+    "CITYMUNI": "TALISAYAN",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153821000,
+    "CITYMUNI": "TALITAY",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34931000,
+    "CITYMUNI": "TALUGTUG",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153626000,
+    "CITYMUNI": "TAMPARAN",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83748000,
+    "CITYMUNI": "TANAUAN",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184622000,
+    "CITYMUNI": "TAYASAN",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 63045000,
+    "CITYMUNI": "TIGBAUAN",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184529000,
+    "CITYMUNI": "TOBOSO",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13320000,
+    "CITYMUNI": "TUBAO",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63046000,
+    "CITYMUNI": "TUBUNGAN",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 124714000,
+    "CITYMUNI": "TULUNAN",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23137000,
+    "CITYMUNI": "TUMAUINI",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153815000,
+    "CITYMUNI": "UPI",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 54121000,
+    "CITYMUNI": "USON",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184530000,
+    "CITYMUNI": "VALLADOLID",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184624000,
+    "CITYMUNI": "VALLEHERMOSO",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 36917000,
+    "CITYMUNI": "VICTORIA",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 36917000,
+    "CITYMUNI": "VICTORIA",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 36917000,
+    "CITYMUNI": "VICTORIA",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83751000,
+    "CITYMUNI": "VILLABA",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104326000,
+    "CITYMUNI": "VILLANUEVA",
+    "Province": "MISAMIS ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25014000,
+    "CITYMUNI": "VILLAVERDE",
+    "Province": "NUEVA VIZCAYA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153630000,
+    "CITYMUNI": "WAO",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184625000,
+    "CITYMUNI": "ZAMBOANGUITA",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 34932000,
+    "CITYMUNI": "ZARAGOZA",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63047000,
+    "CITYMUNI": "ZARRAGA",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175205000,
+    "CITYMUNI": "CALAPAN CITY (Capital)",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23135000,
+    "CITYMUNI": "SANTIAGO CITY",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 43405000,
+    "CITYMUNI": "CALAMBA CITY",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23108000,
+    "CITYMUNI": "CAUAYAN CITY",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184515000,
+    "CITYMUNI": "KABANKALAN CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34908000,
+    "CITYMUNI": "GAPAN CITY",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 34917000,
+    "CITYMUNI": "MUÑOZ SCIENCE CITY",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184528000,
+    "CITYMUNI": "TALISAY CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63035000,
+    "CITYMUNI": "PASSI CITY",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184510000,
+    "CITYMUNI": "HIMAMAYLAN CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184621000,
+    "CITYMUNI": "TANJAY CITY",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 143213000,
+    "CITYMUNI": "TABUK (Capital)",
+    "Province": "KALINGA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 103506000,
+    "CITYMUNI": "SULTAN NAGA DIMAPORO",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153617000,
+    "CITYMUNI": "MARAWI CITY",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 137403000,
+    "CITYMUNI": "PASIG CITY",
+    "Province": "METRO MANILA",
+    "W": 0
+  },
+  {
+    "SEQUENCE": 137402000,
+    "CITYMUNI": "MARIKINA CITY",
+    "Province": "METRO MANILA",
+    "W": 0
+  },
+  {
+    "SEQUENCE": 137601000,
+    "CITYMUNI": "LAS PIÑAS CITY",
+    "Province": "METRO MANILA",
+    "W": 0
+  },
+  {
+    "SEQUENCE": 174001000,
+    "CITYMUNI": "BOAC (Capital)",
+    "Province": "MARINDUQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63022000,
+    "CITYMUNI": "ILOILO CITY (Capital)",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15522000,
+    "CITYMUNI": "LINGAYEN (Capital)",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175106000,
+    "CITYMUNI": "MAMBURAO (Capital)",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34919000,
+    "CITYMUNI": "PALAYAN CITY (Capital)",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 13314000,
+    "CITYMUNI": "SAN FERNANDO CITY (Capital)",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13314000,
+    "CITYMUNI": "SAN FERNANDO CITY (Capital)",
+    "Province": "PAMPANGA",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175301000,
+    "CITYMUNI": "ABORLAN",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45601000,
+    "CITYMUNI": "AGDANGAN",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25701000,
+    "CITYMUNI": "AGLIPAY",
+    "Province": "QUIRINO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175302000,
+    "CITYMUNI": "AGUTAYA",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63001000,
+    "CITYMUNI": "AJUY",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175901000,
+    "CITYMUNI": "ALCANTARA",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175901000,
+    "CITYMUNI": "ALCANTARA",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72203000,
+    "CITYMUNI": "ALEGRIA",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 87801000,
+    "CITYMUNI": "ALMERIA",
+    "Province": "BILIRAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36901000,
+    "CITYMUNI": "ANAO",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45801000,
+    "CITYMUNI": "ANGONO",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60601000,
+    "CITYMUNI": "ANINI-Y",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21505000,
+    "CITYMUNI": "APARRI",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175303000,
+    "CITYMUNI": "ARACELI",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 54101000,
+    "CITYMUNI": "AROROY",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 112301000,
+    "CITYMUNI": "ASUNCION (SAUG)",
+    "Province": "DAVAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23103000,
+    "CITYMUNI": "AURORA",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83705000,
+    "CITYMUNI": "BABATNGON",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 50501000,
+    "CITYMUNI": "BACACAY",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71205000,
+    "CITYMUNI": "BACLAYON",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 42103000,
+    "CITYMUNI": "BACOOR",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 166702000,
+    "CITYMUNI": "BACUAG",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72207000,
+    "CITYMUNI": "BADIAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12803000,
+    "CITYMUNI": "BADOC",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 52001000,
+    "CITYMUNI": "BAGAMANOC",
+    "Province": "CATANDUANES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 112501000,
+    "CITYMUNI": "BAGANGA",
+    "Province": "DAVAO ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126501000,
+    "CITYMUNI": "BAGUMBAYAN",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184604000,
+    "CITYMUNI": "BAIS CITY",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 175304000,
+    "CITYMUNI": "BALABAC",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37701000,
+    "CITYMUNI": "BALER (Capital)",
+    "Province": "AURORA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 41004000,
+    "CITYMUNI": "BALETE",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 104202000,
+    "CITYMUNI": "BALIANGAO",
+    "Province": "MISAMIS OCCIDENTAL",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 97224000,
+    "CITYMUNI": "BALIGUIAN",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153603000,
+    "CITYMUNI": "BALINDONG (WATU)",
+    "Province": "LANAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 54103000,
+    "CITYMUNI": "BALUD",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36902000,
+    "CITYMUNI": "BAMBAN",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60403000,
+    "CITYMUNI": "BANGA",
+    "Province": "SOUTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72209000,
+    "CITYMUNI": "BANTAYAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 56202000,
+    "CITYMUNI": "BARCELONA",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63009000,
+    "CITYMUNI": "BATAD",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 60404000,
+    "CITYMUNI": "BATAN",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175305000,
+    "CITYMUNI": "BATARAZA",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41005000,
+    "CITYMUNI": "BATANGAS CITY (Capital)",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51703000,
+    "CITYMUNI": "BATO",
+    "Province": "CATANDUANES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51703000,
+    "CITYMUNI": "BATO",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 54104000,
+    "CITYMUNI": "BATUAN",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 166802000,
+    "CITYMUNI": "BAYABAS",
+    "Province": "SURIGAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 97303000,
+    "CITYMUNI": "BAYOG",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71248000,
+    "CITYMUNI": "BIEN UNIDO",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 84803000,
+    "CITYMUNI": "BOBON",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 37101000,
+    "CITYMUNI": "BOTOLAN",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45605000,
+    "CITYMUNI": "BUENAVISTA",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45605000,
+    "CITYMUNI": "BUENAVISTA",
+    "Province": "GUIMARAS",
+    "W": 0.92
+  },
+  {
+    "SEQUENCE": 45605000,
+    "CITYMUNI": "BUENAVISTA",
+    "Province": "MARINDUQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45605000,
+    "CITYMUNI": "BUENAVISTA",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60604000,
+    "CITYMUNI": "BUGASONG",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175204000,
+    "CITYMUNI": "BULALACAO (SAN PEDRO)",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 56203000,
+    "CITYMUNI": "BULAN",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12806000,
+    "CITYMUNI": "BURGOS",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175307000,
+    "CITYMUNI": "BUSUANGA",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98302000,
+    "CITYMUNI": "BUUG",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 37102000,
+    "CITYMUNI": "CABANGAN",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25702000,
+    "CITYMUNI": "CABARROGUIS (Capital)",
+    "Province": "QUIRINO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 12905000,
+    "CITYMUNI": "CABUGAO",
+    "Province": "ILOCOS SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43404000,
+    "CITYMUNI": "CABUYAO",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 168502000,
+    "CITYMUNI": "CAGDIANAO",
+    "Province": "DINAGAT ISLAND",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45805000,
+    "CITYMUNI": "CAINTA",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175903000,
+    "CITYMUNI": "CAJIDIOCAN",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51708000,
+    "CITYMUNI": "CALABANGA",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71210000,
+    "CITYMUNI": "CALAPE",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45607000,
+    "CITYMUNI": "CALAUAG",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21509000,
+    "CITYMUNI": "CALAYAN",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 86003000,
+    "CITYMUNI": "CALBAYOG CITY",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86004000,
+    "CITYMUNI": "CALBIGA",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60605000,
+    "CITYMUNI": "CALUYA",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36903000,
+    "CITYMUNI": "CAMILING",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37103000,
+    "CITYMUNI": "CANDELARIA",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71211000,
+    "CITYMUNI": "CANDIJAY",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36904000,
+    "CITYMUNI": "CAPAS",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51711000,
+    "CITYMUNI": "CARAMOAN",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63014000,
+    "CITYMUNI": "CARLES",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71212000,
+    "CITYMUNI": "CARMEN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71212000,
+    "CITYMUNI": "CARMEN",
+    "Province": "SURIGAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 37702000,
+    "CITYMUNI": "CASIGURAN",
+    "Province": "AURORA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 37702000,
+    "CITYMUNI": "CASIGURAN",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 56206000,
+    "CITYMUNI": "CASTILLA",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37104000,
+    "CITYMUNI": "CASTILLEJOS",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184507000,
+    "CITYMUNI": "CAUAYAN",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 54106000,
+    "CITYMUNI": "CAWAYAN",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126502000,
+    "CITYMUNI": "COLUMBIO",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 36905000,
+    "CITYMUNI": "CONCEPCION",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 36905000,
+    "CITYMUNI": "CONCEPCION",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60606000,
+    "CITYMUNI": "CULASI",
+    "Province": "ANTIQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72221000,
+    "CITYMUNI": "DAANBANTAYAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72223000,
+    "CITYMUNI": "DANAO CITY",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 153827000,
+    "CITYMUNI": "DATU UNSAY",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51712000,
+    "CITYMUNI": "DEL GALLEGO",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25703000,
+    "CITYMUNI": "DIFFUN",
+    "Province": "QUIRINO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 97306000,
+    "CITYMUNI": "DINAS",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98303000,
+    "CITYMUNI": "DIPLAHAN",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140107000,
+    "CITYMUNI": "DOLORES",
+    "Province": "EASTERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140107000,
+    "CITYMUNI": "DOLORES",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 56207000,
+    "CITYMUNI": "DONSOL",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97307000,
+    "CITYMUNI": "DUMALINAO",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72224000,
+    "CITYMUNI": "DUMANJUG",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97308000,
+    "CITYMUNI": "DUMINGAG",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184508000,
+    "CITYMUNI": "ENRIQUE B. MAGALONA (SARAVIA)",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 76101000,
+    "CITYMUNI": "ENRIQUE VILLANUEVA",
+    "Province": "SIQUIJOR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184509000,
+    "CITYMUNI": "ESCALANTE CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 54109000,
+    "CITYMUNI": "ESPERANZA",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 63019000,
+    "CITYMUNI": "ESTANCIA",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175916000,
+    "CITYMUNI": "FERROL",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 84807000,
+    "CITYMUNI": "GAMAY",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51714000,
+    "CITYMUNI": "GARCHITORENA",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 174003000,
+    "CITYMUNI": "GASAN",
+    "Province": "MARINDUQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45616000,
+    "CITYMUNI": "GENERAL LUNA",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45617000,
+    "CITYMUNI": "GENERAL NAKAR",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126303000,
+    "CITYMUNI": "GENERAL SANTOS CITY (DADIANGAS)",
+    "Province": "SOUTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34910000,
+    "CITYMUNI": "GENERAL TINIO (PAPAYA)",
+    "Province": "NUEVA ECIJA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 36906000,
+    "CITYMUNI": "GERONA",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 112506000,
+    "CITYMUNI": "GOVERNOR GENEROSO",
+    "Province": "DAVAO ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 56208000,
+    "CITYMUNI": "GUBAT",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45618000,
+    "CITYMUNI": "GUINAYANGAN",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97343000,
+    "CITYMUNI": "GUIPOS",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 82609000,
+    "CITYMUNI": "GUIUAN",
+    "Province": "EASTERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45619000,
+    "CITYMUNI": "GUMACA",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97223000,
+    "CITYMUNI": "GUTALAC",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 150712000,
+    "CITYMUNI": "HADJI MUHTAMAD",
+    "Province": "BASILAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83720000,
+    "CITYMUNI": "HINDANG",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184512000,
+    "CITYMUNI": "HINOBA-AN (ASIA)",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86404000,
+    "CITYMUNI": "HINUNDAYAN",
+    "Province": "SOUTHERN LEYTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37105000,
+    "CITYMUNI": "IBA (Capital)",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 103504000,
+    "CITYMUNI": "ILIGAN CITY",
+    "Province": "LANAO DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184513000,
+    "CITYMUNI": "ILOG",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98304000,
+    "CITYMUNI": "IMELDA",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71224000,
+    "CITYMUNI": "INABANGA",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 56209000,
+    "CITYMUNI": "IROSIN",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 99701000,
+    "CITYMUNI": "ISABELA CITY (Capital)",
+    "Province": "BASILAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 20902000,
+    "CITYMUNI": "ITBAYAT",
+    "Province": "BATANES",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 61905000,
+    "CITYMUNI": "IVISAN",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45807000,
+    "CITYMUNI": "JALA-JALA",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71226000,
+    "CITYMUNI": "JETAFE",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86009000,
+    "CITYMUNI": "JIABONG",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45621000,
+    "CITYMUNI": "JOMALIG",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97222000,
+    "CITYMUNI": "JOSE DALMAN (PONOT)",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97337000,
+    "CITYMUNI": "JOSEFINA",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98306000,
+    "CITYMUNI": "KABASALAN",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 97227000,
+    "CITYMUNI": "KALAWIT",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 137501000,
+    "CITYMUNI": "CALOOKAN CITY",
+    "Province": "METRO MANILA",
+    "W": 0
+  },
+  {
+    "SEQUENCE": 112305000,
+    "CITYMUNI": "KAPALONG",
+    "Province": "DAVAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 97203000,
+    "CITYMUNI": "KATIPUNAN",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 128003000,
+    "CITYMUNI": "KIAMBA",
+    "Province": "SARANGANI",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184613000,
+    "CITYMUNI": "LA LIBERTAD",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140108000,
+    "CITYMUNI": "LA PAZ",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97312000,
+    "CITYMUNI": "LABANGAN",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97205000,
+    "CITYMUNI": "LABASON",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21516000,
+    "CITYMUNI": "LAL-LO",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 126508000,
+    "CITYMUNI": "LAMBAYONG (MARIANO MARCOS)",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 84808000,
+    "CITYMUNI": "LAOANG",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 72226000,
+    "CITYMUNI": "LAPU-LAPU CITY (OPON)",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 76102000,
+    "CITYMUNI": "LARENA",
+    "Province": "SIQUIJOR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 84811000,
+    "CITYMUNI": "LAVEZARES",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 76103000,
+    "CITYMUNI": "LAZI",
+    "Province": "SIQUIJOR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126506000,
+    "CITYMUNI": "LEBAK",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83729000,
+    "CITYMUNI": "LEYTE",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 168504000,
+    "CITYMUNI": "LIBJO (ALBOR)",
+    "Province": "DINAGAT ISLAND",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51718000,
+    "CITYMUNI": "LIBMANAN",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175103000,
+    "CITYMUNI": "LOOC",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71230000,
+    "CITYMUNI": "LOON",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45622000,
+    "CITYMUNI": "LOPEZ",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 160305000,
+    "CITYMUNI": "LORETO",
+    "Province": "DINAGAT ISLAND",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175104000,
+    "CITYMUNI": "LUBANG",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45623000,
+    "CITYMUNI": "LUCBAN",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126507000,
+    "CITYMUNI": "LUTAYAN",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 128004000,
+    "CITYMUNI": "MAASIM",
+    "Province": "SARANGANI",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15523000,
+    "CITYMUNI": "MABINI",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45625000,
+    "CITYMUNI": "MACALELON",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86408000,
+    "CITYMUNI": "MACROHON",
+    "Province": "SOUTHERN LEYTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25704000,
+    "CITYMUNI": "MADDELA",
+    "Province": "QUIRINO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 166813000,
+    "CITYMUNI": "MADRID",
+    "Province": "SURIGAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 42112000,
+    "CITYMUNI": "MAGALLANES",
+    "Province": "AGUSAN DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175908000,
+    "CITYMUNI": "MAGDIWANG",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175105000,
+    "CITYMUNI": "MAGSAYSAY",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97315000,
+    "CITYMUNI": "MAHAYAG",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 166714000,
+    "CITYMUNI": "MAINIT",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 128005000,
+    "CITYMUNI": "MAITUM",
+    "Province": "SARANGANI",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 128006000,
+    "CITYMUNI": "MALAPATAN",
+    "Province": "SARANGANI",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60412000,
+    "CITYMUNI": "MALAY",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 50509000,
+    "CITYMUNI": "MALILIPOT",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 86409000,
+    "CITYMUNI": "MALITBOG",
+    "Province": "SOUTHERN LEYTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 128007000,
+    "CITYMUNI": "MALUNGON",
+    "Province": "SARANGANI",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 150704000,
+    "CITYMUNI": "MALUSO",
+    "Province": "BASILAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 54110000,
+    "CITYMUNI": "MANDAON",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184615000,
+    "CITYMUNI": "MANJUYOD",
+    "Province": "NEGROS ORIENTAL",
+    "W": 0.95
+  },
+  {
+    "SEQUENCE": 76104000,
+    "CITYMUNI": "MARIA",
+    "Province": "SIQUIJOR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 30807000,
+    "CITYMUNI": "MARIVELES",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83734000,
+    "CITYMUNI": "MATALOM",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 112509000,
+    "CITYMUNI": "MATI (Capital)",
+    "Province": "DAVAO ORIENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36908000,
+    "CITYMUNI": "MAYANTOC",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72231000,
+    "CITYMUNI": "MEDELLIN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51607000,
+    "CITYMUNI": "MERCEDES",
+    "Province": "CAMARINES NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51607000,
+    "CITYMUNI": "MERCEDES",
+    "Province": "EASTERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 97318000,
+    "CITYMUNI": "MIDSALIP",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 54112000,
+    "CITYMUNI": "MILAGROS",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72233000,
+    "CITYMUNI": "MOALBOAL",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 174004000,
+    "CITYMUNI": "MOGPOG",
+    "Province": "MARINDUQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97319000,
+    "CITYMUNI": "MOLAVE",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36909000,
+    "CITYMUNI": "MONCADA",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 84813000,
+    "CITYMUNI": "MONDRAGON",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 30808000,
+    "CITYMUNI": "MORONG",
+    "Province": "BATAAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 30808000,
+    "CITYMUNI": "MORONG",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45628000,
+    "CITYMUNI": "MULANAY",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98309000,
+    "CITYMUNI": "NAGA",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 25706000,
+    "CITYMUNI": "NAGTIPUNAN",
+    "Province": "QUIRINO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 41019000,
+    "CITYMUNI": "NASUGBU",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175208000,
+    "CITYMUNI": "NAUJAN",
+    "Province": "ORIENTAL MINDORO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 87808000,
+    "CITYMUNI": "NAVAL (Capital)",
+    "Province": "BILIRAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60415000,
+    "CITYMUNI": "NEW WASHINGTON",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 126311000,
+    "CITYMUNI": "NORALA",
+    "Province": "SOUTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 67903000,
+    "CITYMUNI": "NUEVA VALENCIA",
+    "Province": "GUIMARAS",
+    "W": 0.92
+  },
+  {
+    "SEQUENCE": 175909000,
+    "CITYMUNI": "ODIONGAN",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37107000,
+    "CITYMUNI": "OLONGAPO CITY",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45629000,
+    "CITYMUNI": "PADRE BURGOS",
+    "Province": "SOUTHERN LEYTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12815000,
+    "CITYMUNI": "PAGUDPUD",
+    "Province": "ILOCOS NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43420000,
+    "CITYMUNI": "PAKIL",
+    "Province": "LAGUNA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23121000,
+    "CITYMUNI": "PALANAN",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 126509000,
+    "CITYMUNI": "PALIMBANG",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 83740000,
+    "CITYMUNI": "PALOMPON",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 84815000,
+    "CITYMUNI": "PAMBUJAN",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 61909000,
+    "CITYMUNI": "PANAY",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 52006000,
+    "CITYMUNI": "PANDAN",
+    "Province": "CATANDUANES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 52007000,
+    "CITYMUNI": "PANGANIBAN (PAYO)",
+    "Province": "CATANDUANES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71233000,
+    "CITYMUNI": "PANGLAO",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36910000,
+    "CITYMUNI": "PANIQUI",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45631000,
+    "CITYMUNI": "PANUKULAN",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21519000,
+    "CITYMUNI": "PEÑABLANCA",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140119000,
+    "CITYMUNI": "PILAR",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140119000,
+    "CITYMUNI": "PILAR",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140119000,
+    "CITYMUNI": "PILAR",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45810000,
+    "CITYMUNI": "PILILLA",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86013000,
+    "CITYMUNI": "PINABACDAO",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 54117000,
+    "CITYMUNI": "PLACER",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31417000,
+    "CITYMUNI": "PLARIDEL",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97210000,
+    "CITYMUNI": "POLANCO",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126312000,
+    "CITYMUNI": "POLOMOLOK",
+    "Province": "SOUTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184521000,
+    "CITYMUNI": "PONTEVEDRA",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71235000,
+    "CITYMUNI": "PRES. CARLOS P. GARCIA (PITOGO)",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61913000,
+    "CITYMUNI": "PRESIDENT ROXAS",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 61913000,
+    "CITYMUNI": "PRESIDENT ROXAS",
+    "Province": "NORTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 56214000,
+    "CITYMUNI": "PRIETO DIAZ",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184522000,
+    "CITYMUNI": "PULUPANDAN",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36911000,
+    "CITYMUNI": "PURA",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23122000,
+    "CITYMUNI": "QUEZON",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 82618000,
+    "CITYMUNI": "QUINAPONDAN",
+    "Province": "EASTERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 51730000,
+    "CITYMUNI": "RAGAY",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97323000,
+    "CITYMUNI": "RAMON MAGSAYSAY (LIARGO)",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36912000,
+    "CITYMUNI": "RAMOS",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 50515000,
+    "CITYMUNI": "RAPU-RAPU",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45638000,
+    "CITYMUNI": "REAL",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21521000,
+    "CITYMUNI": "RIZAL",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45808000,
+    "CITYMUNI": "RODRIGUEZ (MONTALBAN)",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15531000,
+    "CITYMUNI": "ROSALES",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13313000,
+    "CITYMUNI": "ROSARIO",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175109000,
+    "CITYMUNI": "SABLAYAN",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 20905000,
+    "CITYMUNI": "SABTANG",
+    "Province": "BATANES",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184523000,
+    "CITYMUNI": "SAGAY CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25705000,
+    "CITYMUNI": "SAGUDAY",
+    "Province": "QUIRINO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 86412000,
+    "CITYMUNI": "SAINT BERNARD",
+    "Province": "SOUTHERN LEYTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45640000,
+    "CITYMUNI": "SAN ANDRES",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34924000,
+    "CITYMUNI": "SAN ANTONIO",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184524000,
+    "CITYMUNI": "SAN CARLOS CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184524000,
+    "CITYMUNI": "SAN CARLOS CITY",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 63038000,
+    "CITYMUNI": "SAN DIONISIO",
+    "Province": "ILOILO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15533000,
+    "CITYMUNI": "SAN FABIAN",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37110000,
+    "CITYMUNI": "SAN FELIPE",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72242000,
+    "CITYMUNI": "SAN FRANCISCO",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72242000,
+    "CITYMUNI": "SAN FRANCISCO",
+    "Province": "SOUTHERN LEYTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 166719000,
+    "CITYMUNI": "SAN FRANCISCO (ANAO-AON)",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45642000,
+    "CITYMUNI": "SAN FRANCISCO (AURORA)",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140121000,
+    "CITYMUNI": "SAN ISIDRO",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140121000,
+    "CITYMUNI": "SAN ISIDRO",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15534000,
+    "CITYMUNI": "SAN JACINTO",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86025000,
+    "CITYMUNI": "SAN JORGE",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184617000,
+    "CITYMUNI": "SAN JOSE",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184617000,
+    "CITYMUNI": "SAN JOSE",
+    "Province": "OCCIDENTAL MINDORO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184617000,
+    "CITYMUNI": "SAN JOSE",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184617000,
+    "CITYMUNI": "SAN JOSE",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 140122000,
+    "CITYMUNI": "SAN JUAN",
+    "Province": "SIQUIJOR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15535000,
+    "CITYMUNI": "SAN MANUEL",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15535000,
+    "CITYMUNI": "SAN MANUEL",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37111000,
+    "CITYMUNI": "SAN MARCELINO",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23132000,
+    "CITYMUNI": "SAN MATEO",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 31421000,
+    "CITYMUNI": "SAN MIGUEL",
+    "Province": "SURIGAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 31421000,
+    "CITYMUNI": "SAN MIGUEL",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37112000,
+    "CITYMUNI": "SAN NARCISO",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37112000,
+    "CITYMUNI": "SAN NARCISO",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12820000,
+    "CITYMUNI": "SAN NICOLAS",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12820000,
+    "CITYMUNI": "SAN NICOLAS",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41026000,
+    "CITYMUNI": "SAN PASCUAL",
+    "Province": "MASBATE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 82621000,
+    "CITYMUNI": "SAN POLICARPO",
+    "Province": "EASTERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 140123000,
+    "CITYMUNI": "SAN QUINTIN",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86015000,
+    "CITYMUNI": "SAN SEBASTIAN",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12921000,
+    "CITYMUNI": "SAN VICENTE",
+    "Province": "NORTHERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 21523000,
+    "CITYMUNI": "SANTA ANA",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15538000,
+    "CITYMUNI": "SANTA BARBARA",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12924000,
+    "CITYMUNI": "SANTA CRUZ",
+    "Province": "MARINDUQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25012000,
+    "CITYMUNI": "SANTA FE",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36915000,
+    "CITYMUNI": "SANTA IGNACIA",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86016000,
+    "CITYMUNI": "SANTA MARGARITA",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12926000,
+    "CITYMUNI": "SANTA MARIA",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 21525000,
+    "CITYMUNI": "SANTA TERESITA",
+    "Province": "CAGAYAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 126318000,
+    "CITYMUNI": "SANTO NIÑO",
+    "Province": "SOUTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13317000,
+    "CITYMUNI": "SANTO TOMAS",
+    "Province": "LA UNION",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 13317000,
+    "CITYMUNI": "SANTO TOMAS",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45645000,
+    "CITYMUNI": "SARIAYA",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126512000,
+    "CITYMUNI": "SEN. NINOY AQUINO",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 153837000,
+    "CITYMUNI": "SHARIFF SAYDONA MUSTAPHA",
+    "Province": "MAGUINDANAO",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 67905000,
+    "CITYMUNI": "SIBUNAG",
+    "Province": "GUIMARAS",
+    "W": 0.92
+  },
+  {
+    "SEQUENCE": 157011000,
+    "CITYMUNI": "SIBUTU",
+    "Province": "TAWI-TAWI",
+    "W": 0.9
+  },
+  {
+    "SEQUENCE": 97218000,
+    "CITYMUNI": "SINDANGAN",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97219000,
+    "CITYMUNI": "SIOCON",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97220000,
+    "CITYMUNI": "SIRAWAI",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51735000,
+    "CITYMUNI": "SIRUMA",
+    "Province": "CAMARINES SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15541000,
+    "CITYMUNI": "SISON",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15541000,
+    "CITYMUNI": "SISON",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 37114000,
+    "CITYMUNI": "SUBIC",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126313000,
+    "CITYMUNI": "SURALLAH",
+    "Province": "SOUTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126316000,
+    "CITYMUNI": "T'BOLI",
+    "Province": "SOUTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83745000,
+    "CITYMUNI": "TABANGO",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 97327000,
+    "CITYMUNI": "TABINA",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 150713000,
+    "CITYMUNI": "TABUAN-LASA",
+    "Province": "BASILAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 82623000,
+    "CITYMUNI": "TAFT",
+    "Province": "EASTERN SAMAR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71242000,
+    "CITYMUNI": "TAGBILARAN CITY (Capital)",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45646000,
+    "CITYMUNI": "TAGKAWAYAN",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 166818000,
+    "CITYMUNI": "TAGO",
+    "Province": "SURIGAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 71243000,
+    "CITYMUNI": "TALIBON",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 41030000,
+    "CITYMUNI": "TALISAY",
+    "Province": "BATANGAS",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97328000,
+    "CITYMUNI": "TAMBULIG",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126314000,
+    "CITYMUNI": "TAMPAKAN",
+    "Province": "SOUTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97221000,
+    "CITYMUNI": "TAMPILISAN",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45812000,
+    "CITYMUNI": "TANAY",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 60417000,
+    "CITYMUNI": "TANGALAN",
+    "Province": "AKLAN",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 104215000,
+    "CITYMUNI": "TANGUB CITY",
+    "Province": "MISAMIS OCCIDENTAL",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 126315000,
+    "CITYMUNI": "TANTANGAN",
+    "Province": "SOUTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 42120000,
+    "CITYMUNI": "TANZA",
+    "Province": "CAVITE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45647000,
+    "CITYMUNI": "TAYABAS",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45813000,
+    "CITYMUNI": "TAYTAY",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15543000,
+    "CITYMUNI": "TAYUG",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45814000,
+    "CITYMUNI": "TERESA",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45648000,
+    "CITYMUNI": "TIAONG",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98315000,
+    "CITYMUNI": "TITAY",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 174006000,
+    "CITYMUNI": "TORRIJOS",
+    "Province": "MARINDUQUE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71245000,
+    "CITYMUNI": "TUBIGON",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 150707000,
+    "CITYMUNI": "TUBURAN",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97330000,
+    "CITYMUNI": "TUKURAN",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 71246000,
+    "CITYMUNI": "UBAY",
+    "Province": "BOHOL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15544000,
+    "CITYMUNI": "UMINGAN",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15545000,
+    "CITYMUNI": "URBIZTONDO",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 36917000,
+    "CITYMUNI": "VICTORIA",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 52010000,
+    "CITYMUNI": "VIGA",
+    "Province": "CATANDUANES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15547000,
+    "CITYMUNI": "VILLASIS",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 51612000,
+    "CITYMUNI": "VINZONS",
+    "Province": "CAMARINES NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45802000,
+    "CITYMUNI": "ANTIPOLO CITY",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15546000,
+    "CITYMUNI": "URDANETA CITY",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97202000,
+    "CITYMUNI": "DIPOLOG CITY (Capital)",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23114000,
+    "CITYMUNI": "ILAGAN (Capital)",
+    "Province": "ISABELA",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 50517000,
+    "CITYMUNI": "TABACO CITY",
+    "Province": "ALBAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 184527000,
+    "CITYMUNI": "SIPALAY CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184531000,
+    "CITYMUNI": "VICTORIAS CITY",
+    "Province": "NEGROS OCCIDENTAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72220000,
+    "CITYMUNI": "CORDOVA",
+    "Province": "CEBU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98305000,
+    "CITYMUNI": "IPIL",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 126511000,
+    "CITYMUNI": "TACURONG CITY",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 128001000,
+    "CITYMUNI": "ALABEL (Capital)",
+    "Province": "SARANGANI",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126504000,
+    "CITYMUNI": "ISULAN (Capital)",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 126306000,
+    "CITYMUNI": "KORONADAL CITY (Capital)",
+    "Province": "SOUTH COTABATO",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86407000,
+    "CITYMUNI": "MAASIN CITY (Capital)",
+    "Province": "SOUTHERN LEYTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 61914000,
+    "CITYMUNI": "ROXAS CITY (Capital)",
+    "Province": "CAPIZ",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 76106000,
+    "CITYMUNI": "SIQUIJOR (Capital)",
+    "Province": "SIQUIJOR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 56216000,
+    "CITYMUNI": "SORSOGON CITY (Capital)",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 83747000,
+    "CITYMUNI": "TACLOBAN CITY (Capital)",
+    "Province": "LEYTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 36918000,
+    "CITYMUNI": "TARLAC CITY (Capital)",
+    "Province": "TARLAC",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15503000,
+    "CITYMUNI": "ALAMINOS CITY",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23101000,
+    "CITYMUNI": "ALICIA",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 15505000,
+    "CITYMUNI": "ANDA",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86002000,
+    "CITYMUNI": "BASEY",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45804000,
+    "CITYMUNI": "BINANGONAN",
+    "Province": "RIZAL",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15514000,
+    "CITYMUNI": "BOLINAO",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45606000,
+    "CITYMUNI": "BURDEOS",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175308000,
+    "CITYMUNI": "CAGAYANCILLO",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 184505000,
+    "CITYMUNI": "CALATRAVA",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37103000,
+    "CITYMUNI": "CANDELARIA",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 166805000,
+    "CITYMUNI": "CANTILAN",
+    "Province": "SURIGAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 166807000,
+    "CITYMUNI": "CARRASCAL",
+    "Province": "SURIGAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45610000,
+    "CITYMUNI": "CATANAUAN",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 166706000,
+    "CITYMUNI": "CLAVER",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 36905000,
+    "CITYMUNI": "CONCEPCION",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175906000,
+    "CITYMUNI": "CORCUERA",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175309000,
+    "CITYMUNI": "CORON",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175322000,
+    "CITYMUNI": "CULION",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175310000,
+    "CITYMUNI": "CUYO",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 166707000,
+    "CITYMUNI": "DAPA",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 97201000,
+    "CITYMUNI": "DAPITAN CITY",
+    "Province": "ZAMBOANGA DEL NORTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15519000,
+    "CITYMUNI": "DASOL",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97305000,
+    "CITYMUNI": "DIMATALING",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175311000,
+    "CITYMUNI": "DUMARAN",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175312000,
+    "CITYMUNI": "EL NIDO (BACUIT)",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86007000,
+    "CITYMUNI": "GANDARA",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45616000,
+    "CITYMUNI": "GENERAL LUNA",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 166711000,
+    "CITYMUNI": "GIGAQUIT",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 166809000,
+    "CITYMUNI": "HINATUAN",
+    "Province": "SURIGAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 86403000,
+    "CITYMUNI": "HINUNANGAN",
+    "Province": "SOUTHERN LEYTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15520000,
+    "CITYMUNI": "INFANTA",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 56210000,
+    "CITYMUNI": "JUBAN",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 43409000,
+    "CITYMUNI": "KALAYAAN",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 156603000,
+    "CITYMUNI": "KALINGALAN CALUANG",
+    "Province": "SULU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 156608000,
+    "CITYMUNI": "PANGUTARAN",
+    "Province": "SULU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97311000,
+    "CITYMUNI": "KUMALARANG",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97313000,
+    "CITYMUNI": "LAPUYAN",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 72227000,
+    "CITYMUNI": "LILOAN",
+    "Province": "SOUTHERN LEYTE",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175313000,
+    "CITYMUNI": "LINAPACAN",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175103000,
+    "CITYMUNI": "LOOC",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98307000,
+    "CITYMUNI": "MABUHAY",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 42112000,
+    "CITYMUNI": "MAGALLANES",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175105000,
+    "CITYMUNI": "MAGSAYSAY",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98308000,
+    "CITYMUNI": "MALANGAS",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 37106000,
+    "CITYMUNI": "MASINLOC",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 56212000,
+    "CITYMUNI": "MATNOG",
+    "Province": "SORSOGON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45627000,
+    "CITYMUNI": "MAUBAN",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175315000,
+    "CITYMUNI": "NARRA",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 156607000,
+    "CITYMUNI": "OLD PANAMAO",
+    "Province": "SULU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 156619000,
+    "CITYMUNI": "OMAR",
+    "Province": "SULU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45629000,
+    "CITYMUNI": "PADRE BURGOS",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 97322000,
+    "CITYMUNI": "PAGADIAN CITY (Capital)",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45630000,
+    "CITYMUNI": "PAGBILAO",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 37108000,
+    "CITYMUNI": "PALAUIG",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 156611000,
+    "CITYMUNI": "PATIKUL",
+    "Province": "SULU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 45632000,
+    "CITYMUNI": "PATNANUNGAN",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98311000,
+    "CITYMUNI": "PAYAO",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 54117000,
+    "CITYMUNI": "PLACER",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45636000,
+    "CITYMUNI": "POLILLO",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126510000,
+    "CITYMUNI": "PRESIDENT QUIRINO",
+    "Province": "SULTAN KUDARAT",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175316000,
+    "CITYMUNI": "PUERTO PRINCESA CITY (Capital)",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23122000,
+    "CITYMUNI": "QUEZON",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175323000,
+    "CITYMUNI": "RIZAL (MARCOS)",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98312000,
+    "CITYMUNI": "ROSELLER LIM",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 23126000,
+    "CITYMUNI": "ROXAS",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23127000,
+    "CITYMUNI": "SAN AGUSTIN",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23127000,
+    "CITYMUNI": "SAN AGUSTIN",
+    "Province": "SURIGAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45640000,
+    "CITYMUNI": "SAN ANDRES",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 34924000,
+    "CITYMUNI": "SAN ANTONIO",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175913000,
+    "CITYMUNI": "SAN FERNANDO",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 23133000,
+    "CITYMUNI": "SAN PABLO",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12921000,
+    "CITYMUNI": "SAN VICENTE",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 12924000,
+    "CITYMUNI": "SANTA CRUZ",
+    "Province": "ZAMBALES",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 25012000,
+    "CITYMUNI": "SANTA FE",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 35420000,
+    "CITYMUNI": "SANTA RITA",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 126318000,
+    "CITYMUNI": "SANTO NIÑO",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98313000,
+    "CITYMUNI": "SIAY",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175214000,
+    "CITYMUNI": "SOCORRO",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 175324000,
+    "CITYMUNI": "SOFRONIO ESPAÑOLA",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 15542000,
+    "CITYMUNI": "SUAL",
+    "Province": "PANGASINAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 166724000,
+    "CITYMUNI": "SURIGAO CITY (Capital)",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 166725000,
+    "CITYMUNI": "TAGANA-AN",
+    "Province": "SURIGAO DEL NORTE",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 86024000,
+    "CITYMUNI": "TAGAPUL-AN",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 166819000,
+    "CITYMUNI": "TANDAG (Capital)",
+    "Province": "SURIGAO DEL SUR",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 45813000,
+    "CITYMUNI": "TAYTAY",
+    "Province": "PALAWAN",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 156615000,
+    "CITYMUNI": "TONGKIL",
+    "Province": "SULU",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 98316000,
+    "CITYMUNI": "TUNGAWAN",
+    "Province": "ZAMBOANGA SIBUGAY",
+    "W": 0.5
+  },
+  {
+    "SEQUENCE": 97332000,
+    "CITYMUNI": "ZAMBOANGA CITY",
+    "Province": "ZAMBOANGA DEL SUR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 157004000,
+    "CITYMUNI": "SIMUNUL",
+    "Province": "TAWI-TAWI",
+    "W": 0.9
+  },
+  {
+    "SEQUENCE": 157009000,
+    "CITYMUNI": "LANGUYAN",
+    "Province": "TAWI-TAWI",
+    "W": 0.9
+  },
+  {
+    "SEQUENCE": 157010000,
+    "CITYMUNI": "SAPA-SAPA",
+    "Province": "TAWI-TAWI",
+    "W": 0.9
+  },
+  {
+    "SEQUENCE": 157005000,
+    "CITYMUNI": "SITANGKAI",
+    "Province": "TAWI-TAWI",
+    "W": 0.9
+  },
+  {
+    "SEQUENCE": 157006000,
+    "CITYMUNI": "SOUTH UBIAN",
+    "Province": "TAWI-TAWI",
+    "W": 0.9
+  },
+  {
+    "SEQUENCE": 45624000,
+    "CITYMUNI": "LUCENA CITY (Capital)",
+    "Province": "QUEZON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 175910000,
+    "CITYMUNI": "ROMBLON (Capital)",
+    "Province": "ROMBLON",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 86005000,
+    "CITYMUNI": "CATBALOGAN (Capital)",
+    "Province": "SAMAR",
+    "W": 1
+  },
+  {
+    "SEQUENCE": 157002000,
+    "CITYMUNI": "BONGAO",
+    "Province": "TAWI-TAWI",
+    "W": 0.9
+  }
+]
